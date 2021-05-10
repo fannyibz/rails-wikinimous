@@ -1,0 +1,10 @@
+@import "bootstrap/scss/bootstrap";
+
+.banner {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #969595;
+    background-color: #96959559;
+    padding: 10px;
+    align-items: center;
+}
